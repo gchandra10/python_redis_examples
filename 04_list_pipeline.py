@@ -1,4 +1,5 @@
 from db_config import get_redis_connection
+
 r = get_redis_connection()
 
 r.flushall()
@@ -31,14 +32,14 @@ responses = pipe.execute()
 
 print(responses)
 
-# responses[0] contains the result of the first LRANGE
-print("Pages after LPUSH and RPUSH:", responses[3])
+# # responses[0] contains the result of the first LRANGE
+# print("Pages after LPUSH and RPUSH:", responses[3])
 
-# responses[1] contains the result of LLEN
-print("Number of pages:", responses[4])
+# # responses[1] contains the result of LLEN
+# print("Number of pages:", responses[4])
 
-# responses[2] contains the result of LPOP
-print("Removed page:", responses[5])
+# # responses[2] contains the result of LPOP
+# print("Removed page:", responses[5])
 
-# responses[3] contains the result of the second LRANGE (after LPOP)
-print("Pages after LPOP:", responses[6])
+# # responses[3] contains the result of the second LRANGE (after LPOP)
+# print("Pages after LPOP:", responses[6])

@@ -1,6 +1,7 @@
 import redis
 import yaml
 
+
 def load_config():
     """Load configuration from the YAML file.
 
@@ -12,6 +13,7 @@ def load_config():
 
 
 config = load_config()
+
 
 def get_redis_connection():
     """Create a Redis connection using the configuration.
@@ -27,4 +29,3 @@ def get_redis_connection():
         username=config["redis"]["user"],
         password=config["redis"]["password"],
     )
-
