@@ -1,0 +1,546 @@
+Location	Latitude	Longitude
+Absecon city	39.42	-74.49
+Allamuchy	40.92	-74.81
+Allendale borough	41.03	-74.13
+Allenhurst borough	40.24	-74
+Allentown borough	40.18	-74.59
+Allenwood	40.14	-74.1
+Alloway	39.56	-75.35
+Alpha borough	40.66	-75.16
+Alpine borough	40.96	-73.92
+Anderson	40.76	-74.93
+Andover borough	40.99	-74.74
+Annandale	40.65	-74.89
+Asbury	40.7	-75.01
+Asbury Park city	40.22	-74.01
+Ashland	39.88	-75.01
+Atlantic City city	39.38	-74.45
+Atlantic Highlands borough	40.42	-74.02
+Audubon borough	39.89	-75.07
+Audubon Park borough	39.9	-75.09
+Avalon borough	39.09	-74.74
+Avenel	40.58	-74.27
+Avon-by-the-Sea borough	40.19	-74.02
+Barclay	39.9	-75
+Barnegat	39.75	-74.22
+Barnegat Light borough	39.75	-74.11
+Barrington borough	39.87	-75.05
+Bay Head borough	40.07	-74.05
+Bayonne city	40.66	-74.11
+Beach Haven borough	39.57	-74.25
+Beach Haven West	39.67	-74.23
+Beachwood borough	39.93	-74.2
+Beattystown	40.82	-74.85
+Beckett	39.76	-75.36
+Belford	40.43	-74.08
+Belle Mead	40.46	-74.67
+Belleplain	39.27	-74.87
+Bellmawr borough	39.87	-75.09
+Belmar borough	40.18	-74.02
+Belvidere town	40.83	-75.07
+Bergenfield borough	40.92	-74
+Berlin borough	39.79	-74.94
+Bernardsville borough	40.73	-74.59
+Beverly city	40.07	-74.92
+Blackwells Mills	40.48	-74.57
+Blackwood	39.8	-75.06
+Blairstown	40.99	-74.96
+Blawenburg	40.41	-74.7
+Bloomingdale borough	41.03	-74.33
+Bloomsbury borough	40.65	-75.08
+Bogota borough	40.88	-74.03
+Boonton town	40.9	-74.4
+Bordentown city	40.15	-74.71
+Bound Brook borough	40.57	-74.54
+Bradley Beach borough	40.2	-74.01
+Bradley Gardens	40.57	-74.67
+Brainards	40.77	-75.17
+Branchville borough	41.15	-74.75
+Brass Castle	40.76	-75.01
+Bridgeton city	39.43	-75.23
+Bridgeville	40.84	-75.02
+Brielle borough	40.1	-74.06
+Brigantine city	39.41	-74.38
+Broadway	40.74	-75.05
+Brookdale	40.83	-74.18
+Brookfield	40.82	-75.06
+Brooklawn borough	39.88	-75.12
+Browns Mills	39.97	-74.57
+Brownville	40.4	-74.3
+Budd Lake	40.87	-74.74
+Buena borough	39.53	-74.94
+Burleigh	39.05	-74.85
+Burlington city	40.08	-74.85
+Butler borough	41	-74.35
+Buttzville	40.83	-75.01
+Byram Center	40.94	-74.72
+Caldwell borough	40.84	-74.28
+Califon borough	40.72	-74.84
+Camden city	39.94	-75.11
+Cape May city	38.94	-74.9
+Cape May Court House	39.08	-74.82
+Cape May Point borough	38.94	-74.96
+Carlstadt borough	40.82	-74.06
+Carneys Point	39.71	-75.47
+Carteret borough	40.58	-74.23
+Cedar Glen Lakes	39.95	-74.4
+Cedar Glen West	40.04	-74.29
+Cedarville	39.34	-75.21
+Chatham borough	40.74	-74.38
+Cherry Hill Mall	39.94	-75.01
+Chesilhurst borough	39.73	-74.88
+Chester borough	40.79	-74.69
+Clayton borough	39.66	-75.08
+Clearbrook Park	40.31	-74.46
+Clementon borough	39.8	-74.98
+Cliffside Park borough	40.82	-73.99
+Cliffwood Beach	40.44	-74.22
+Clifton city	40.86	-74.16
+Clinton town	40.64	-74.91
+Closter borough	40.97	-73.96
+Clyde	40.49	-74.51
+Collings Lakes	39.59	-74.88
+Collingswood borough	39.92	-75.08
+Colonia	40.59	-74.32
+Columbia	40.93	-75.09
+Concordia	40.31	-74.45
+Corbin City city	39.3	-74.72
+Country Lake Estates	39.95	-74.54
+Cranbury	40.31	-74.52
+Crandon Lakes	41.12	-74.84
+Cresskill borough	40.94	-73.96
+Crestwood Village	39.96	-74.35
+Dayton	40.38	-74.51
+Deal borough	40.25	-74
+Delaware	40.89	-75.07
+Delaware Park	40.71	-75.19
+Demarest borough	40.95	-73.96
+Diamond Beach	38.96	-74.85
+Dover Beaches North	39.99	-74.07
+Dover Beaches South	39.95	-74.08
+Dover town	40.89	-74.56
+Dumont borough	40.95	-73.99
+Dunellen borough	40.59	-74.47
+East Franklin	40.49	-74.47
+East Freehold	40.27	-74.24
+East Millstone	40.5	-74.57
+East Newark borough	40.75	-74.16
+East Orange city	40.77	-74.21
+East Rocky Hill	40.41	-74.61
+East Rutherford borough	40.82	-74.09
+Eatontown borough	40.29	-74.06
+Echelon	39.85	-75
+Edgewater borough	40.82	-73.97
+Egg Harbor City city	39.56	-74.6
+Elizabeth city	40.67	-74.19
+Ellisburg	39.92	-75.01
+Elmer borough	39.59	-75.17
+Elmwood Park borough	40.9	-74.12
+Elwood	39.57	-74.71
+Emerson borough	40.97	-74.02
+Englewood city	40.89	-73.97
+Englewood Cliffs borough	40.88	-73.95
+Englishtown borough	40.3	-74.36
+Erma	39	-74.89
+Essex Fells borough	40.83	-74.28
+Estell Manor city	39.36	-74.78
+Fair Haven borough	40.36	-74.04
+Fair Lawn borough	40.94	-74.12
+Fairton	39.38	-75.21
+Fairview borough	40.82	-74
+Fairview	40.37	-74.08
+Fanwood borough	40.64	-74.39
+Far Hills borough	40.69	-74.63
+Farmingdale borough	40.2	-74.17
+Fieldsboro borough	40.14	-74.73
+Finderne	40.56	-74.57
+Finesville	40.61	-75.17
+Flemington borough	40.51	-74.86
+Florence	40.12	-74.81
+Florham Park borough	40.78	-74.4
+Folsom borough	39.59	-74.84
+Fords	40.54	-74.31
+Forked River	39.82	-74.15
+Fort Dix	40.01	-74.61
+Fort Lee borough	40.85	-73.97
+Franklin borough	41.11	-74.59
+Franklin Center	40.53	-74.54
+Franklin Lakes borough	41.01	-74.21
+Franklin Park	40.44	-74.54
+Freehold borough	40.26	-74.28
+Frenchtown borough	40.53	-75.06
+Garfield city	40.88	-74.11
+Garwood borough	40.65	-74.32
+Gibbsboro borough	39.83	-74.97
+Gibbstown	39.82	-75.28
+Glassboro borough	39.7	-75.11
+Glen Gardner borough	40.7	-74.94
+Glen Ridge borough	40.8	-74.2
+Glen Rock borough	40.96	-74.12
+Glendora	39.84	-75.07
+Gloucester City city	39.89	-75.12
+Golden Triangle	39.93	-75.04
+Great Meadows	40.88	-74.9
+Green Knoll	40.6	-74.61
+Greentree	39.9	-74.96
+Greenwich	40.68	-75.13
+Griggstown	40.44	-74.6
+Groveville	40.17	-74.65
+Guttenberg town	40.79	-74
+Hackensack city	40.89	-74.05
+Hackettstown town	40.85	-74.83
+Haddon Heights borough	39.88	-75.06
+Haddonfield borough	39.9	-75.03
+Hainesburg	40.95	-75.06
+Haledon borough	40.94	-74.19
+Hamburg borough	41.15	-74.57
+Hamilton Square	40.22	-74.65
+Hammonton town	39.66	-74.77
+Hampton borough	40.71	-74.96
+Hancocks Bridge	39.5	-75.46
+Harlingen	40.45	-74.66
+Harmony	40.75	-75.14
+Harrington Park borough	40.99	-73.98
+Harrison town	40.74	-74.15
+Harvey Cedars borough	39.7	-74.14
+Hasbrouck Heights borough	40.86	-74.07
+Haworth borough	40.96	-74
+Hawthorne borough	40.96	-74.16
+Heathcote	40.39	-74.58
+Helmetta borough	40.38	-74.42
+Hi-Nella borough	39.84	-75.02
+High Bridge borough	40.67	-74.89
+Highland Lake	41.17	-74.46
+Highland Park borough	40.5	-74.43
+Highlands borough	40.4	-73.99
+Hightstown borough	40.27	-74.53
+Hillsdale borough	41.01	-74.04
+Ho-Ho-Kus borough	41	-74.1
+Hoboken city	40.75	-74.03
+Holiday City South	39.95	-74.24
+Holiday City-Berkeley	39.96	-74.28
+Holiday Heights	39.94	-74.26
+Hopatcong borough	40.95	-74.66
+Hope	40.91	-74.96
+Hopewell borough	40.39	-74.76
+Hutchinson	40.78	-75.13
+Interlaken borough	40.23	-74.02
+Iselin	40.57	-74.32
+Island Heights borough	39.94	-74.15
+Jamesburg borough	40.35	-74.44
+Jersey City city	40.71	-74.06
+Johnsonburg	40.97	-74.88
+Juliustown	40.01	-74.67
+Keansburg borough	40.47	-74.15
+Kearny town	40.75	-74.12
+Kendall Park	40.41	-74.56
+Kenilworth borough	40.68	-74.29
+Kenvil	40.87	-74.63
+Keyport borough	40.43	-74.2
+Kingston	40.38	-74.61
+Kingston Estates	39.92	-74.99
+Kinnelon borough	40.98	-74.39
+Lake Como borough	40.17	-74.03
+Lake Mohawk	41.02	-74.66
+Lake Telemark	40.96	-74.5
+Lakehurst borough	40.01	-74.32
+Lakewood	40.09	-74.21
+Lambertville city	40.37	-74.94
+Laurel Lake	39.33	-75.03
+Laurel Springs borough	39.82	-75.01
+Laurence Harbor	40.45	-74.25
+Lavallette borough	39.97	-74.07
+Lawnside borough	39.87	-75.03
+Lawrenceville	40.3	-74.74
+Lebanon borough	40.64	-74.84
+Leisure Knoll	40.02	-74.29
+Leisure Village	40.04	-74.19
+Leisure Village East	40.04	-74.17
+Leisure Village West	40.01	-74.28
+Leisuretowne	39.9	-74.71
+Leonardo	40.42	-74.06
+Leonia borough	40.86	-73.99
+Lincoln Park borough	40.92	-74.3
+Lincroft	40.34	-74.13
+Linden city	40.62	-74.24
+Lindenwold borough	39.82	-74.99
+Linwood city	39.34	-74.57
+Little Ferry borough	40.85	-74.04
+Little Silver borough	40.34	-74.03
+Loch Arbour village	40.23	-74
+Lodi borough	40.88	-74.08
+Long Branch city	40.3	-73.99
+Long Valley	40.78	-74.78
+Longport borough	39.31	-74.52
+Lopatcong Overlook	40.7	-75.15
+Madison borough	40.76	-74.42
+Madison Park	40.45	-74.3
+Magnolia borough	39.86	-75.04
+Manahawkin	39.69	-74.25
+Manasquan borough	40.11	-74.04
+Mantoloking borough	40.04	-74.05
+Manville borough	40.54	-74.59
+Margate City city	39.33	-74.51
+Marksboro	40.99	-74.91
+Marlton	39.9	-74.93
+Martinsville	40.6	-74.58
+Matawan borough	40.41	-74.24
+Mays Landing	39.45	-74.72
+Maywood borough	40.9	-74.06
+McGuire AFB	40.03	-74.59
+Medford Lakes borough	39.86	-74.81
+Mendham borough	40.77	-74.6
+Mercerville	40.24	-74.69
+Merchantville borough	39.95	-75.05
+Metuchen borough	40.54	-74.36
+Middlebush	40.5	-74.53
+Middlesex borough	40.57	-74.5
+Midland Park borough	41	-74.14
+Milford borough	40.57	-75.09
+Millstone borough	40.5	-74.59
+Milltown borough	40.45	-74.44
+Millville city	39.39	-75.06
+Monmouth Beach borough	40.34	-73.99
+Monmouth Junction	40.38	-74.54
+Montvale borough	41.05	-74.05
+Moonachie borough	40.84	-74.06
+Moorestown-Lenola	39.97	-74.96
+Morganville	40.38	-74.24
+Morris Plains borough	40.84	-74.48
+Morristown town	40.8	-74.48
+Mount Arlington borough	40.92	-74.64
+Mount Ephraim borough	39.88	-75.09
+Mount Hermon	40.93	-74.99
+Mountain Lake	40.86	-74.99
+Mountain Lakes borough	40.89	-74.44
+Mountainside borough	40.68	-74.36
+Mullica Hill	39.73	-75.22
+Mystic Island	39.57	-74.38
+National Park borough	39.87	-75.19
+Navesink	40.4	-74.04
+Neptune City borough	40.2	-74.03
+Netcong borough	40.9	-74.7
+New Brunswick city	40.49	-74.44
+New Egypt	40.06	-74.53
+New Milford borough	40.93	-74.02
+New Providence borough	40.7	-74.4
+New Village	40.72	-75.08
+Newark city	40.72	-74.17
+Newfield borough	39.55	-75.02
+Newton town	41.05	-74.75
+North Arlington borough	40.79	-74.13
+North Beach Haven	39.6	-74.21
+North Caldwell borough	40.86	-74.26
+North Cape May	38.98	-74.95
+North Haledon borough	40.96	-74.18
+North Middletown	40.44	-74.12
+North Plainfield borough	40.62	-74.44
+North Wildwood city	39	-74.8
+Northfield city	39.37	-74.56
+Northvale borough	41.01	-73.95
+Norwood borough	40.99	-73.95
+Oak Valley	39.81	-75.16
+Oakhurst	40.26	-74.03
+Oakland borough	41.03	-74.24
+Oaklyn borough	39.9	-75.08
+Ocean Acres	39.74	-74.28
+Ocean City city	39.27	-74.6
+Ocean Gate borough	39.93	-74.14
+Ocean Grove	40.21	-74.01
+Oceanport borough	40.32	-74.02
+Ogdensburg borough	41.08	-74.6
+Old Bridge	40.39	-74.33
+Old Tappan borough	41.02	-73.99
+Olivet	39.54	-75.17
+Oradell borough	40.96	-74.03
+Oxford	40.81	-75
+Palisades Park borough	40.85	-74
+Palmyra borough	40	-75.04
+Panther Valley	40.91	-74.84
+Paramus borough	40.95	-74.07
+Park Ridge borough	41.04	-74.04
+Passaic city	40.86	-74.13
+Paterson city	40.91	-74.16
+Paulsboro borough	39.84	-75.24
+Peapack and Gladstone borough	40.72	-74.66
+Pedricktown	39.76	-75.41
+Pemberton borough	39.97	-74.69
+Pemberton Heights	39.96	-74.68
+Pennington borough	40.33	-74.79
+Penns Grove borough	39.73	-75.47
+Pennsville	39.65	-75.51
+Perth Amboy city	40.52	-74.27
+Phillipsburg town	40.69	-75.18
+Pine Beach borough	39.94	-74.17
+Pine Hill borough	39.79	-74.99
+Pine Lake Park	40	-74.26
+Pine Ridge at Crestwood	39.96	-74.32
+Pine Valley borough	39.79	-74.97
+Pitman borough	39.73	-75.13
+Plainfield city	40.62	-74.42
+Plainsboro Center	40.33	-74.59
+Pleasant Plains	40.45	-74.57
+Pleasantville city	39.39	-74.52
+Point Pleasant Beach borough	40.09	-74.05
+Point Pleasant borough	40.08	-74.07
+Pomona	39.47	-74.55
+Pompton Lakes borough	41	-74.29
+Port Colden	40.77	-74.95
+Port Monmouth	40.43	-74.1
+Port Murray	40.79	-74.91
+Port Norris	39.25	-75.04
+Port Reading	40.56	-74.25
+Port Republic city	39.53	-74.49
+Presidential Lakes Estates	39.91	-74.56
+Princeton borough	40.35	-74.66
+Princeton Junction	40.32	-74.62
+Princeton Meadows	40.33	-74.56
+Prospect Park borough	40.94	-74.17
+Quinton	39.55	-75.41
+Rahway city	40.61	-74.28
+Ramblewood	39.93	-74.95
+Ramsey borough	41.06	-74.15
+Ramtown	40.11	-74.15
+Raritan borough	40.57	-74.64
+Red Bank borough	40.35	-74.07
+Richwood	39.71	-75.17
+Ridgefield borough	40.83	-74.01
+Ridgefield Park village	40.85	-74.02
+Ridgewood village	40.98	-74.11
+Ringwood borough	41.11	-74.28
+Rio Grande	39.02	-74.88
+River Edge borough	40.93	-74.04
+Riverdale borough	40.99	-74.31
+Riverton borough	40.01	-75.01
+Robbinsville	40.22	-74.63
+Robertsville	40.34	-74.29
+Rockaway borough	40.9	-74.52
+Rockleigh borough	41	-73.93
+Rocky Hill borough	40.4	-74.64
+Roebling	40.12	-74.78
+Roosevelt borough	40.22	-74.47
+Roseland borough	40.82	-74.31
+Roselle borough	40.65	-74.26
+Roselle Park borough	40.67	-74.27
+Rosenhayn	39.48	-75.14
+Ross Corner	41.13	-74.71
+Rossmoor	40.34	-74.47
+Rumson borough	40.36	-74
+Runnemede borough	39.85	-75.07
+Rutherford borough	40.82	-74.11
+Saddle River borough	41.03	-74.1
+Salem city	39.57	-75.47
+Sayreville borough	40.47	-74.32
+Sea Bright borough	40.36	-73.98
+Sea Girt borough	40.13	-74.03
+Sea Isle City city	39.15	-74.7
+Seabrook Farms	39.5	-75.22
+Seaside Heights borough	39.95	-74.08
+Seaside Park borough	39.93	-74.08
+Secaucus town	40.78	-74.07
+Sewaren	40.55	-74.26
+Shark River Hills	40.19	-74.05
+Shiloh borough	39.46	-75.3
+Ship Bottom borough	39.65	-74.18
+Short Hills	40.74	-74.33
+Shrewsbury borough	40.32	-74.06
+Silver Lake	40.78	-74.18
+Silver Lake	40.93	-74.95
+Silver Ridge	39.96	-74.24
+Singac	40.88	-74.24
+Six Mile Run	40.47	-74.53
+Skillman	40.42	-74.71
+Smithville	39.49	-74.48
+Society Hill	40.53	-74.46
+Somerdale borough	39.85	-75.02
+Somers Point city	39.32	-74.61
+Somerset	40.51	-74.5
+Somerville borough	40.57	-74.61
+South Amboy city	40.49	-74.28
+South Bound Brook borough	40.55	-74.53
+South Plainfield borough	40.57	-74.42
+South River borough	40.45	-74.38
+South Toms River borough	39.94	-74.21
+Spotswood borough	40.4	-74.39
+Spring Lake borough	40.15	-74.03
+Spring Lake Heights borough	40.15	-74.04
+Springdale	39.88	-74.97
+Stanhope borough	40.91	-74.7
+Stewartsville	40.69	-75.11
+Stockton borough	40.41	-74.98
+Stone Harbor borough	39.04	-74.77
+Stratford borough	39.83	-75.02
+Strathmere	39.2	-74.66
+Strathmore	40.4	-74.22
+Succasunna	40.85	-74.66
+Summit city	40.72	-74.36
+Surf City borough	39.66	-74.17
+Sussex borough	41.21	-74.61
+Swedesboro borough	39.75	-75.31
+Tavistock borough	39.88	-75.03
+Ten Mile Run	40.42	-74.59
+Tenafly borough	40.92	-73.95
+Teterboro borough	40.86	-74.06
+Tinton Falls borough	40.27	-74.09
+Toms River	39.99	-74.19
+Totowa borough	40.9	-74.22
+Trenton city	40.22	-74.76
+Tuckerton borough	39.6	-74.33
+Turnersville	39.77	-75.06
+Twin Rivers	40.26	-74.49
+Union Beach borough	40.45	-74.17
+Union City city	40.77	-74.03
+Upper Montclair	40.84	-74.2
+Upper Pohatcong	40.68	-75.16
+Upper Saddle River borough	41.06	-74.1
+Upper Stewartsville	40.7	-75.12
+Ventnor City city	39.34	-74.48
+Vernon Center	41.19	-74.5
+Vernon Valley	41.24	-74.48
+Victory Gardens borough	40.88	-74.54
+Victory Lakes	39.63	-74.97
+Vienna	40.87	-74.88
+Villas	39.02	-74.93
+Vineland city	39.47	-75
+Vista Center	40.16	-74.32
+Voorhees	40.48	-74.49
+Waldwick borough	41.01	-74.13
+Wallington borough	40.85	-74.11
+Wanamassa	40.24	-74.03
+Wanaque borough	41.04	-74.29
+Waretown	39.79	-74.19
+Washington borough	40.76	-74.98
+Watchung borough	40.64	-74.44
+Wenonah borough	39.79	-75.15
+West Belmar	40.17	-74.04
+West Cape May borough	38.94	-74.94
+West Freehold	40.23	-74.29
+West Long Branch borough	40.29	-74.02
+West New York town	40.79	-74.01
+West Wildwood borough	39	-74.82
+Westfield town	40.65	-74.34
+Weston	40.52	-74.58
+Westville borough	39.87	-75.13
+Westwood borough	40.99	-74.03
+Wharton borough	40.9	-74.58
+White Horse	40.19	-74.7
+White House Station	40.62	-74.77
+White Meadow Lake	40.92	-74.51
+Whitesboro	39.04	-74.87
+Whittingham	40.33	-74.45
+Wildwood city	38.99	-74.82
+Wildwood Crest borough	38.97	-74.84
+Williamstown	39.69	-74.98
+Wood-Ridge borough	40.85	-74.09
+Woodbine borough	39.23	-74.81
+Woodbridge	40.56	-74.28
+Woodbury city	39.84	-75.15
+Woodbury Heights borough	39.82	-75.15
+Woodcliff Lake borough	41.03	-74.06
+Woodland Park borough	40.89	-74.19
+Woodlynne borough	39.92	-75.1
+Woodstown borough	39.65	-75.33
+Wrightstown borough	40.03	-74.63
+Yardville	40.18	-74.66
+Yorketown	40.31	-74.34
+Zarephath	40.54	-74.57
