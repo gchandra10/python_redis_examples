@@ -6,7 +6,7 @@ r = get_redis_connection()
 
 stime = time.time()
 # Assuming you have keys structured as sales:index
-keys = r.keys('sales:*')
+keys = r.keys("sales:*")
 
 # Retrieve and convert data to a pandas DataFrame
 data = []
@@ -20,8 +20,8 @@ df = pd.DataFrame(data)
 # df = df.applymap(lambda x: x.decode('utf-8') if isinstance(x, bytes) else x)
 
 # Calculate total profit
-df['profit'] = pd.to_numeric(df['TotalProfit'])
-total_profit = df['profit'].sum()
+df["profit"] = pd.to_numeric(df["TotalProfit"])
+total_profit = df["profit"].sum()
 etime = time.time()
 
 print(f"Total Profit: {total_profit}, {etime - stime}")
