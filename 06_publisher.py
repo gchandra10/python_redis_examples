@@ -1,9 +1,10 @@
 import sys
 from db_config import get_redis_connection
 
-# Redis Pub/Sub is transient: if no subscriber is present at the 
+# Redis Pub/Sub is transient: if no subscriber is present at the
 # moment a message is published, the message is lost.
 # For persistent messaging, consider other Redis data structures like lists.
+
 
 def publish_message(channel, message):
     """Publishes a message to a specified Redis channel."""

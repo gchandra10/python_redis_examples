@@ -29,4 +29,3 @@ def get_redis_connection():
         username=config["redis"]["user"],
         password=config["redis"]["password"],
     )
-

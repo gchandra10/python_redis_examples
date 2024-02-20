@@ -18,7 +18,7 @@ with open(file_path, "r") as file:
         # Convert latitude and longitude to float
         latitude, longitude = float(latitude), float(longitude)
 
-        print(location, longitude, latitude)
+        # print(location, longitude, latitude)
 
         # Add the location to Redis
         # r.geoadd(geo_key, (longitude, latitude, location))
@@ -40,12 +40,3 @@ cities_near_newark = r.geosearch(
 # print(cities_near_newark)
 for city in cities_near_newark:
     print(f"{city[0]} is {city[1]} mi away from Newark")
-
-
-## Getting the Geohash
-## GEOHASH provides a geohash string of one or more cities,
-## which can be useful for applications requiring a compact representation
-## of a location.
-
-# geohash = r.geohash('nj_cities', ['Newark', 'Trenton'])
-# print(f"Geohash for Newark and Trenton: {geohash}")
