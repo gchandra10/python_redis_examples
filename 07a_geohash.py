@@ -2,8 +2,8 @@
 import geohash
 
 # Encode a location
-latitude = 40.689247
-longitude = -74.044502
+latitude = 39.7029
+longitude = -75.1118
 precision = 12  # More digits = more precision
 encoded = geohash.encode(latitude, longitude, precision)
 print(f"Encoded: {encoded}")
@@ -11,3 +11,4 @@ print(f"Encoded: {encoded}")
 # Decode a GeoHash
 decoded = geohash.decode(encoded)
 print(f"Decoded: {decoded}")
+

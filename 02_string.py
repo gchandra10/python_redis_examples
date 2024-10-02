@@ -7,7 +7,7 @@ r.flushall()
 # SET command
 r.set("character:rachel", "Fashion")
 # GET command
-print(r.get("character:rachel"))
+print(f"Reading the Key 'character:rachel' {r.get('character:rachel')}")
 # STRLEN command
 print(r.strlen("character:rachel"))
 # APPEND command
@@ -18,7 +18,7 @@ print(r.getrange("character:rachel", 0, 4))
 # SET another character
 r.set("character:ross", "Palentologist")
 
-print("-" * 200)
+print("-" * 100)
 
 # Use scan to iterate through keys that match 'character:*'
 cursor = "0"
@@ -28,7 +28,7 @@ while cursor != 0:
         value = r.get(key)
         print(f"{key}: {value}")
 
-print("-" * 200)
+print("-" * 100)
 
 print("Following Keys method not recommended in Prod")
 

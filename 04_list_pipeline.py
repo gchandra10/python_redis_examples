@@ -1,3 +1,5 @@
+# Execute set of commands as one block
+
 from db_config import get_redis_connection
 
 r = get_redis_connection()
@@ -6,7 +8,6 @@ r.flushall()
 
 # Create a pipeline
 pipe = r.pipeline()
-
 
 # LPUSH commands
 pipe.lpush("user:123:recentPages", "/home")

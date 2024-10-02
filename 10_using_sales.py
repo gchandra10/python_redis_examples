@@ -16,9 +16,11 @@ for key in keys:
 # Convert list of dictionaries to DataFrame
 df = pd.DataFrame(data)
 
+print(df)
+
 # Calculate total profit
 df["profit"] = pd.to_numeric(df["TotalProfit"])
 total_profit = df["profit"].sum()
 etime = time.time()
 
-print(f"Total Profit: {total_profit}, {etime - stime}")
+print(f"\n\n Total Profit: {total_profit}, {etime - stime}")

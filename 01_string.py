@@ -2,6 +2,7 @@ from db_config import get_redis_connection
 
 r = get_redis_connection()
 
+# Clear the DB
 r.flushall()
 
 ## Store a String Key
