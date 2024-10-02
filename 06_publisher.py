@@ -5,7 +5,6 @@ from db_config import get_redis_connection
 # moment a message is published, the message is lost.
 # For persistent messaging, consider other Redis data structures like lists.
 
-
 def publish_message(channel, message):
     """Publishes a message to a specified Redis channel."""
     r = get_redis_connection()
@@ -23,7 +22,6 @@ if __name__ == "__main__":
 
     publish_message(channel, message)
 
-    # Publish messages
-    # r.publish('class_update_channel', 'Hello class')
-    # r.publish('school_update_channel', 'who is graduating this summer?')
-    # r.publish('glassboro_channel', 'welcome to Glassboro')
+    # poetry run python 06_publisher.py 'class_update_channel', 'Hello class'
+    # poetry run python 06_publisher.py 'school_update_channel', 'who is graduating this summer?'
+    # poetry run python 06_publisher.py 'glassboro_channel', 'welcome to Glassboro'

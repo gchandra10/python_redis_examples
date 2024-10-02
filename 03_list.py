@@ -1,8 +1,8 @@
 from db_config import get_redis_connection
-
 r = get_redis_connection()
 
-r.flushall()
+# Deleting existing data
+r.flushdb()
 
 # LPUSH commands
 r.lpush("user:123:recentPages", "/home")

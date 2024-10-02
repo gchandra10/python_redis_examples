@@ -1,5 +1,7 @@
 from db_config import get_redis_connection
 
+# This does BULK subscription to anything ending with _channel
+# and bg_class_mates channel
 
 def listen_to_redis_patterns():
     r = get_redis_connection()
@@ -16,7 +18,6 @@ def listen_to_redis_patterns():
             print(
                 f"Pattern Received: {message.get('data')} on channel: {message.get('channel')}"
             )
-
 
 if __name__ == "__main__":
     listen_to_redis_patterns()

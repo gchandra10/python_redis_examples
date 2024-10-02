@@ -2,8 +2,8 @@ from db_config import get_redis_connection
 
 r = get_redis_connection()
 
-# clear the memory
-r.flushall()
+# Deleting existing data
+r.flushdb()
 
 # Add followers to userID1's set
 r.sadd("user:userID1:followers", "followerID1")

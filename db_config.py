@@ -1,7 +1,6 @@
 import redis
 import yaml
 
-
 def load_config():
     """Load configuration from the YAML file.
 
@@ -11,9 +10,7 @@ def load_config():
     with open("config.yaml", "r") as file:
         return yaml.safe_load(file)
 
-
 config = load_config()
-
 
 def get_redis_connection():
     """Create a Redis connection using the configuration.
