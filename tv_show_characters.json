@@ -1,0 +1,370 @@
+{
+    "ross": {
+        "name": "Ross Geller",
+        "occupation": "Paleontologist",
+        "relationship_status": "Divorced",
+        "friends": ["Rachel Green", "Monica Geller", "Joey Tribbiani", "Chandler Bing", "Phoebe Buffay"],
+        "children": [
+            {"name": "Ben Geller", "mother": "Carol Willick"},
+            {"name": "Emma Geller-Green", "mother": "Rachel Green"}
+        ],
+        "education": {
+            "college": "Columbia University",
+            "degree": "Ph.D. in Paleontology"
+        }
+    },
+    "sheldon": {
+        "name": "Sheldon Cooper",
+        "occupation": "Theoretical Physicist",
+        "relationship_status": "Married",
+        "spouse": "Amy Farrah Fowler",
+        "friends": ["Leonard Hofstadter", "Penny", "Raj Koothrappali", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "California Institute of Technology",
+            "degree": "Ph.D. in Theoretical Physics"
+        }
+    },
+    "leonard": {
+        "name": "Leonard Hofstadter",
+        "occupation": "Experimental Physicist",
+        "relationship_status": "Married",
+        "spouse": "Penny",
+        "friends": ["Sheldon Cooper", "Penny", "Raj Koothrappali", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "Princeton University",
+            "degree": "Ph.D. in Experimental Physics"
+        }
+    },
+    "penny": {
+        "name": "Penny",
+        "occupation": "Pharmaceutical Sales Representative",
+        "relationship_status": "Married",
+        "spouse": "Leonard Hofstadter",
+        "friends": ["Sheldon Cooper", "Leonard Hofstadter", "Raj Koothrappali", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "None",
+            "degree": "None"
+        }
+    },
+    "raj": {
+        "name": "Raj Koothrappali",
+        "occupation": "Astrophysicist",
+        "relationship_status": "Single",
+        "friends": ["Sheldon Cooper", "Leonard Hofstadter", "Penny", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "Cambridge University",
+            "degree": "Ph.D. in Astrophysics"
+        }
+    },
+    "howard": {
+        "name": "Howard Wolowitz",
+        "occupation": "Aerospace Engineer",
+        "relationship_status": "Married",
+        "spouse": "Bernadette Rostenkowski-Wolowitz",
+        "friends": ["Sheldon Cooper", "Leonard Hofstadter", "Penny", "Raj Koothrappali", "Amy Farrah Fowler"],
+        "education": {
+            "college": "Massachusetts Institute of Technology",
+            "degree": "Master's in Engineering"
+        }
+    },
+    "bernadette": {
+        "name": "Bernadette Rostenkowski-Wolowitz",
+        "occupation": "Microbiologist",
+        "relationship_status": "Married",
+        "spouse": "Howard Wolowitz",
+        "friends": ["Penny", "Amy Farrah Fowler", "Leonard Hofstadter", "Sheldon Cooper", "Raj Koothrappali"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Ph.D. in Microbiology"
+        }
+    },
+    "amy": {
+        "name": "Amy Farrah Fowler",
+        "occupation": "Neurobiologist",
+        "relationship_status": "Married",
+        "spouse": "Sheldon Cooper",
+        "friends": ["Penny", "Bernadette Rostenkowski-Wolowitz", "Leonard Hofstadter", "Sheldon Cooper", "Raj Koothrappali"],
+        "education": {
+            "college": "Harvard University",
+            "degree": "Ph.D. in Neurobiology"
+        }
+    },
+    "jerry": {
+        "name": "Jerry Seinfeld",
+        "occupation": "Stand-up Comedian",
+        "relationship_status": "Single",
+        "friends": ["George Costanza", "Elaine Benes", "Cosmo Kramer"],
+        "education": {
+            "college": "Queens College",
+            "degree": "Communications and Theater"
+        }
+    },
+    "george": {
+        "name": "George Costanza",
+        "occupation": "Assistant to the Traveling Secretary",
+        "relationship_status": "Single",
+        "friends": ["Jerry Seinfeld", "Elaine Benes", "Cosmo Kramer"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "elaine": {
+        "name": "Elaine Benes",
+        "occupation": "Assistant Editor",
+        "relationship_status": "Single",
+        "friends": ["Jerry Seinfeld", "George Costanza", "Cosmo Kramer"],
+        "education": {
+            "college": "Tufts University",
+            "degree": "Unknown"
+        }
+    },
+    "kramer": {
+        "name": "Cosmo Kramer",
+        "occupation": "Unknown",
+        "relationship_status": "Single",
+        "friends": ["Jerry Seinfeld", "George Costanza", "Elaine Benes"],
+        "education": {
+            "college": "None",
+            "degree": "None"
+        }
+    },
+    "raymond": {
+        "name": "Raymond Barone",
+        "occupation": "Sports Writer",
+        "relationship_status": "Married",
+        "spouse": "Debra Barone",
+        "friends": ["Debra Barone", "Robert Barone", "Frank Barone", "Marie Barone"],
+        "education": {
+            "college": "St. John's University",
+            "degree": "Journalism"
+        }
+    },
+    "debra": {
+        "name": "Debra Barone",
+        "occupation": "Housewife",
+        "relationship_status": "Married",
+        "spouse": "Raymond Barone",
+        "friends": ["Raymond Barone", "Robert Barone", "Frank Barone", "Marie Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "robert": {
+        "name": "Robert Barone",
+        "occupation": "Police Officer",
+        "relationship_status": "Single",
+        "friends": ["Raymond Barone", "Debra Barone", "Frank Barone", "Marie Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "frank": {
+        "name": "Frank Barone",
+        "occupation": "Retired",
+        "relationship_status": "Married",
+        "spouse": "Marie Barone",
+        "friends": ["Raymond Barone", "Debra Barone", "Robert Barone", "Marie Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "marie": {
+        "name": "Marie Barone",
+        "occupation": "Housewife",
+        "relationship_status": "Married",
+        "spouse": "Frank Barone",
+        "friends": ["Raymond Barone", "Debra Barone", "Robert Barone", "Frank Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "ross1": {
+        "name": "Ross Geller",
+        "occupation": "Paleontologist",
+        "relationship_status": "Divorced",
+        "friends": ["Rachel Green", "Monica Geller", "Joey Tribbiani", "Chandler Bing", "Phoebe Buffay"],
+        "children": [
+            {"name": "Ben Geller", "mother": "Carol Willick"},
+            {"name": "Emma Geller-Green", "mother": "Rachel Green"}
+        ],
+        "education": {
+            "college": "Columbia University",
+            "degree": "Ph.D. in Paleontology"
+        }
+    },
+    "sheldon1": {
+        "name": "Sheldon Cooper",
+        "occupation": "Theoretical Physicist",
+        "relationship_status": "Married",
+        "spouse": "Amy Farrah Fowler",
+        "friends": ["Leonard Hofstadter", "Penny", "Raj Koothrappali", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "California Institute of Technology",
+            "degree": "Ph.D. in Theoretical Physics"
+        }
+    },
+    "leonard1": {
+        "name": "Leonard Hofstadter",
+        "occupation": "Experimental Physicist",
+        "relationship_status": "Married",
+        "spouse": "Penny",
+        "friends": ["Sheldon Cooper", "Penny", "Raj Koothrappali", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "Princeton University",
+            "degree": "Ph.D. in Experimental Physics"
+        }
+    },
+    "penny1": {
+        "name": "Penny",
+        "occupation": "Pharmaceutical Sales Representative",
+        "relationship_status": "Married",
+        "spouse": "Leonard Hofstadter",
+        "friends": ["Sheldon Cooper", "Leonard Hofstadter", "Raj Koothrappali", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "None",
+            "degree": "None"
+        }
+    },
+    "raj1": {
+        "name": "Raj Koothrappali",
+        "occupation": "Astrophysicist",
+        "relationship_status": "Single",
+        "friends": ["Sheldon Cooper", "Leonard Hofstadter", "Penny", "Howard Wolowitz", "Amy Farrah Fowler"],
+        "education": {
+            "college": "Cambridge University",
+            "degree": "Ph.D. in Astrophysics"
+        }
+    },
+    "howard1": {
+        "name": "Howard Wolowitz",
+        "occupation": "Aerospace Engineer",
+        "relationship_status": "Married",
+        "spouse": "Bernadette Rostenkowski-Wolowitz",
+        "friends": ["Sheldon Cooper", "Leonard Hofstadter", "Penny", "Raj Koothrappali", "Amy Farrah Fowler"],
+        "education": {
+            "college": "Massachusetts Institute of Technology",
+            "degree": "Master's in Engineering"
+        }
+    },
+    "bernadette1": {
+        "name": "Bernadette Rostenkowski-Wolowitz",
+        "occupation": "Microbiologist",
+        "relationship_status": "Married",
+        "spouse": "Howard Wolowitz",
+        "friends": ["Penny", "Amy Farrah Fowler", "Leonard Hofstadter", "Sheldon Cooper", "Raj Koothrappali"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Ph.D. in Microbiology"
+        }
+    },
+    "amy1": {
+        "name": "Amy Farrah Fowler",
+        "occupation": "Neurobiologist",
+        "relationship_status": "Married",
+        "spouse": "Sheldon Cooper",
+        "friends": ["Penny", "Bernadette Rostenkowski-Wolowitz", "Leonard Hofstadter", "Sheldon Cooper", "Raj Koothrappali"],
+        "education": {
+            "college": "Harvard University",
+            "degree": "Ph.D. in Neurobiology"
+        }
+    },
+    "jerry1": {
+        "name": "Jerry Seinfeld",
+        "occupation": "Stand-up Comedian",
+        "relationship_status": "Single",
+        "friends": ["George Costanza", "Elaine Benes", "Cosmo Kramer"],
+        "education": {
+            "college": "Queens College",
+            "degree": "Communications and Theater"
+        }
+    },
+    "george1": {
+        "name": "George Costanza",
+        "occupation": "Assistant to the Traveling Secretary",
+        "relationship_status": "Single",
+        "friends": ["Jerry Seinfeld", "Elaine Benes", "Cosmo Kramer"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "elaine1": {
+        "name": "Elaine Benes",
+        "occupation": "Assistant Editor",
+        "relationship_status": "Single",
+        "friends": ["Jerry Seinfeld", "George Costanza", "Cosmo Kramer"],
+        "education": {
+            "college": "Tufts University",
+            "degree": "Unknown"
+        }
+    },
+    "kramer1": {
+        "name": "Cosmo Kramer",
+        "occupation": "Unknown",
+        "relationship_status": "Single",
+        "friends": ["Jerry Seinfeld", "George Costanza", "Elaine Benes"],
+        "education": {
+            "college": "None",
+            "degree": "None"
+        }
+    },
+    "raymond1": {
+        "name": "Raymond Barone",
+        "occupation": "Sports Writer",
+        "relationship_status": "Married",
+        "spouse": "Debra Barone",
+        "friends": ["Debra Barone", "Robert Barone", "Frank Barone", "Marie Barone"],
+        "education": {
+            "college": "St. John's University",
+            "degree": "Journalism"
+        }
+    },
+    "debra1": {
+        "name": "Debra Barone",
+        "occupation": "Housewife",
+        "relationship_status": "Married",
+        "spouse": "Raymond Barone",
+        "friends": ["Raymond Barone", "Robert Barone", "Frank Barone", "Marie Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "robert1": {
+        "name": "Robert Barone",
+        "occupation": "Police Officer",
+        "relationship_status": "Single",
+        "friends": ["Raymond Barone", "Debra Barone", "Frank Barone", "Marie Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "frank1": {
+        "name": "Frank Barone",
+        "occupation": "Retired",
+        "relationship_status": "Married",
+        "spouse": "Marie Barone",
+        "friends": ["Raymond Barone", "Debra Barone", "Robert Barone", "Marie Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    },
+    "marie1": {
+        "name": "Marie Barone",
+        "occupation": "Housewife",
+        "relationship_status": "Married",
+        "spouse": "Frank Barone",
+        "friends": ["Raymond Barone", "Debra Barone", "Robert Barone", "Frank Barone"],
+        "education": {
+            "college": "Unknown",
+            "degree": "Unknown"
+        }
+    }
+}
