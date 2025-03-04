@@ -22,7 +22,7 @@ def get_redis_connection():
         host=config["redis"]["host"],
         port=config["redis"]["port"],
         db=0,
-        decode_responses=True,
+        # decode_responses=True,
         username=config["redis"]["user"],
         password=config["redis"]["password"],
     )

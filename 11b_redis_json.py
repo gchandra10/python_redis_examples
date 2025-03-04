@@ -28,4 +28,4 @@ elapsed_time = end_time - start_time
 print(f"Name: {name}")
 print(f"Occupation: {occupation}")
 print(f"Education: {education}")
-# print(f"Time taken to read data: {elapsed_time} seconds")
+print(f"Time taken to read data: {elapsed_time} seconds")
